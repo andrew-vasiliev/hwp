@@ -20,7 +20,7 @@
     </auth-constraint>  
 </security-constraint> 
 <security-role>
-  <description>All SAP Cloud Platform users</description>
+  <description>SAP HCP users</description>
   <role-name>Everyone</role-name>
 </security-role> 
 
